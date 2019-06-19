@@ -1,30 +1,31 @@
 {
   "files": {
     "main.css": "/vera-demo/static/css/main.944dc54d.chunk.css",
-    "main.js": "/vera-demo/static/js/main.af5c5f1d.chunk.js",
-    "main.js.map": "/vera-demo/static/js/main.af5c5f1d.chunk.js.map",
+    "main.js": "/vera-demo/static/js/main.b19e6760.chunk.js",
+    "main.js.map": "/vera-demo/static/js/main.b19e6760.chunk.js.map",
     "runtime~main.js": "/vera-demo/static/js/runtime~main.07727f63.js",
     "runtime~main.js.map": "/vera-demo/static/js/runtime~main.07727f63.js.map",
     "static/js/2.6b8a5e35.chunk.js": "/vera-demo/static/js/2.6b8a5e35.chunk.js",
     "static/js/2.6b8a5e35.chunk.js.map": "/vera-demo/static/js/2.6b8a5e35.chunk.js.map",
     "index.html": "/vera-demo/index.html",
-    "precache-manifest.223d2994fb0e639f8481891bf302fb09.js": "/vera-demo/precache-manifest.223d2994fb0e639f8481891bf302fb09.js",
+    "precache-manifest.c5cd2e73a1f65bdabbbcfea238054246.js": "/vera-demo/precache-manifest.c5cd2e73a1f65bdabbbcfea238054246.js",
     "service-worker.js": "/vera-demo/service-worker.js",
     "static/css/main.944dc54d.chunk.css.map": "/vera-demo/static/css/main.944dc54d.chunk.css.map",
     "static/media/1080_1.png": "/vera-demo/static/media/1080_1.4e1c8c62.png",
     "static/media/1080_2.png": "/vera-demo/static/media/1080_2.a8fb2da3.png",
     "static/media/1080_4.png": "/vera-demo/static/media/1080_4.a787b99b.png",
-    "static/media/1080_5.png": "/vera-demo/static/media/1080_5.30b61e95.png",
-    "static/media/1080_6.png": "/vera-demo/static/media/1080_6.efb8e0e4.png",
+    "static/media/1080_5.png": "/vera-demo/static/media/1080_5.d8a95482.png",
+    "static/media/1080_footer.png": "/vera-demo/static/media/1080_footer.75209a8a.png",
     "static/media/1440_1.png": "/vera-demo/static/media/1440_1.e543d3a0.png",
     "static/media/1440_2.png": "/vera-demo/static/media/1440_2.833a39e1.png",
     "static/media/1440_6.png": "/vera-demo/static/media/1440_6.d0a89007.png",
-    "static/media/1440_7.png": "/vera-demo/static/media/1440_7.a6a76366.png",
+    "static/media/1440_7.png": "/vera-demo/static/media/1440_7.0c2e4214.png",
+    "static/media/1440_footer.png": "/vera-demo/static/media/1440_footer.10c9f86b.png",
     "static/media/mob_1.png": "/vera-demo/static/media/mob_1.560c6a99.png",
     "static/media/mob_2.png": "/vera-demo/static/media/mob_2.ee26b6e7.png",
     "static/media/mob_3.png": "/vera-demo/static/media/mob_3.2547747c.png",
     "static/media/mob_5.png": "/vera-demo/static/media/mob_5.d9d7474e.png",
     "static/media/mob_6.png": "/vera-demo/static/media/mob_6.f024ce35.png",
-    "static/media/mob_7.png": "/vera-demo/static/media/mob_7.2f47608b.png"
+    "static/media/mob_footer.png": "/vera-demo/static/media/mob_footer.2f47608b.png"
   }
 }

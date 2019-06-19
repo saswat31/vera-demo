@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51d8683a91156f93a7a33b439acf2796",
+    "revision": "03a4ee8f5504fab40e7a61be825fe5a6",
     "url": "/vera-demo/index.html"
   },
   {
-    "revision": "060a38e7a0e4ab454d94",
+    "revision": "dbcd7db6ffda557dd093",
     "url": "/vera-demo/static/css/main.944dc54d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vera-demo/static/js/2.6b8a5e35.chunk.js"
   },
   {
-    "revision": "060a38e7a0e4ab454d94",
-    "url": "/vera-demo/static/js/main.af5c5f1d.chunk.js"
+    "revision": "dbcd7db6ffda557dd093",
+    "url": "/vera-demo/static/js/main.b19e6760.chunk.js"
   },
   {
     "revision": "463485148fd69dd821c5",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vera-demo/static/media/1080_4.a787b99b.png"
   },
   {
-    "revision": "30b61e9546cd0a2ee6907d389c486585",
-    "url": "/vera-demo/static/media/1080_5.30b61e95.png"
+    "revision": "d8a95482346ccc9dbd6e174392d404a3",
+    "url": "/vera-demo/static/media/1080_5.d8a95482.png"
   },
   {
-    "revision": "efb8e0e47feddcf5f452d42d6e347c7d",
-    "url": "/vera-demo/static/media/1080_6.efb8e0e4.png"
+    "revision": "75209a8a78d8fe3eaac27f156303dcc1",
+    "url": "/vera-demo/static/media/1080_footer.75209a8a.png"
   },
   {
     "revision": "e543d3a0387c09b41421eb1b45696892",
@@ -52,8 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vera-demo/static/media/1440_6.d0a89007.png"
   },
   {
-    "revision": "a6a76366a6f3d6f64efaf20318f9de66",
-    "url": "/vera-demo/static/media/1440_7.a6a76366.png"
+    "revision": "0c2e42148464c633f3f533fdd8ab4550",
+    "url": "/vera-demo/static/media/1440_7.0c2e4214.png"
+  },
+  {
+    "revision": "10c9f86be3ee6ae9564855a521231249",
+    "url": "/vera-demo/static/media/1440_footer.10c9f86b.png"
   },
   {
     "revision": "560c6a9908f9f544f958018a09e25fdf",
@@ -77,6 +81,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "2f47608bd805933a9f529ce761b7a60d",
-    "url": "/vera-demo/static/media/mob_7.2f47608b.png"
+    "url": "/vera-demo/static/media/mob_footer.2f47608b.png"
   }
 ]);
