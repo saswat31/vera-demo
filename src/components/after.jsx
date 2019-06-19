@@ -42,13 +42,13 @@ class After extends Component {
               alt="8th"
             />
           </div>
-          <div className="img-wrap">
+          {/* <div className="img-wrap">
             <img
               className="img-wrap"
               src={require("../images/1080_6.png")}
               alt="9th"
             />
-          </div>
+          </div> */}
         </div>
         <div className="res_mob">
           <div className="img-wrap">
@@ -65,13 +65,13 @@ class After extends Component {
               alt="8th"
             />
           </div>
-          <div className="img-wrap">
+          {/* <div className="img-wrap">
             <img
               className="img-wrap"
               src={require("../images/mob_7.png")}
               alt="9th"
             />
-          </div>
+          </div> */}
           {/* <div className="img-wrap">
             <img
               className="img-wrap"
