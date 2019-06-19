@@ -3,15 +3,29 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "mdbreact": "^4.15.0",
     "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.9",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-instagram-embed": "^1.5.0",
+    "react-pinterest": "^1.2.0",
+    "react-responsive-carousel": "^3.1.49",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "3.0.1",
+    "react-slick": "^0.24.0",
+    "react-twitter-widgets": "^1.7.1",
+    "slick": "^1.12.2",
+    "slick-carousel": "^1.8.1"
   },
+  "homepage": "https://github.com/saswat31/vera-demo",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -27,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
