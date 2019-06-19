@@ -18,7 +18,7 @@
     "slick": "^1.12.2",
     "slick-carousel": "^1.8.1"
   },
-  "homepage": "https://github.com/saswat31/vera-demo",
+  "homepage": "http://saswat31.github.io/vera-demo",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

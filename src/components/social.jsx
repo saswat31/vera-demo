@@ -23,7 +23,7 @@ class Social extends Component {
       slidesToScroll: 2,
       responsive: [
         {
-          breakpoint: 1430,
+          breakpoint: 1020,
           settings: {
             slidesToShow: 1,
             slidesToScroll: 1

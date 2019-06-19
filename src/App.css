@@ -150,18 +150,18 @@
 .social-card-wrap {
   float: left;
   padding: 5px 0;
-  width: 390px;
+  width: 380px;
 }
 
 .social-wrapper {
   border-radius: 5px;
-  padding: 10px;
+  padding: 15px;
   max-width: 100%;
   box-sizing: border-box;
 }
 
 .social-wrapper .card-container {
-  width: 185px;
+  width: 180px;
   float: left;
   max-width: 50%;
 }
@@ -224,7 +224,6 @@
 
 .slick-prev,
 .slick-next {
-  border: 2px solid #bebebe !important;
   width: 33px !important;
   height: 33px !important;
   background-color: white !important;
@@ -232,7 +231,7 @@
 }
 
 .slick-prev {
-  left: -27px !important;
+  left: -38px !important;
   background-image: url("../src/images/left_arrow.png") !important;
   background-size: 25px !important;
   background-repeat: no-repeat !important;
@@ -247,7 +246,7 @@
 }
 
 .slick-next {
-  right: -27px !important;
+  right: -38px !important;
   background-image: url("../src/images/right_arrow.png") !important;
   background-size: 25px !important;
   background-repeat: no-repeat !important;
@@ -266,10 +265,23 @@
 /* End slick changes */
 /* Start reponsive changes */
 
-@media (min-width: 769px) and (max-width: 900px) {
+@media screen and (min-width: 1020px) and (max-width: 1430px) {
+  .social-wrapper-container .card-price,
+  .social-wrapper-container .card-name {
+    font-size: 13px;
+  }
+  .social-img {
+    width: 180px;
+  }
+  .social-card-wrap {
+    width: 240px;
+  }
+  .social-wrapper .card-container {
+    width: 110px;
+  }
 }
 
-@media (min-width: 769px) and (max-width: 1080px) {
+@media only screen and (max-width: 1080px) {
   .res_1440 {
     display: none;
   }
@@ -307,14 +319,16 @@
   }
 
   .social-img {
+    width: 230px;
     float: none;
     display: inline-block;
   }
 
   .social-wrapper .card-container {
-    width: 140px;
+    width: calc(50% - 10px);
     display: inline-block;
     float: none;
+    max-width: 150px;
   }
 
   .social-card-wrap {
