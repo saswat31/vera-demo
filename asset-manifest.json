@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vera-demo/static/css/main.a5f576be.chunk.css",
-    "main.js": "/vera-demo/static/js/main.6758a4f2.chunk.js",
-    "main.js.map": "/vera-demo/static/js/main.6758a4f2.chunk.js.map",
+    "main.js": "/vera-demo/static/js/main.2c7aa955.chunk.js",
+    "main.js.map": "/vera-demo/static/js/main.2c7aa955.chunk.js.map",
     "runtime~main.js": "/vera-demo/static/js/runtime~main.07727f63.js",
     "runtime~main.js.map": "/vera-demo/static/js/runtime~main.07727f63.js.map",
     "static/js/2.6b8a5e35.chunk.js": "/vera-demo/static/js/2.6b8a5e35.chunk.js",
     "static/js/2.6b8a5e35.chunk.js.map": "/vera-demo/static/js/2.6b8a5e35.chunk.js.map",
     "index.html": "/vera-demo/index.html",
-    "precache-manifest.76aa1f082f37f98d325ff2a0ae5b5113.js": "/vera-demo/precache-manifest.76aa1f082f37f98d325ff2a0ae5b5113.js",
+    "precache-manifest.d8e17230b6593f5d1d0b5aff2fd88be0.js": "/vera-demo/precache-manifest.d8e17230b6593f5d1d0b5aff2fd88be0.js",
     "service-worker.js": "/vera-demo/service-worker.js",
     "static/css/main.a5f576be.chunk.css.map": "/vera-demo/static/css/main.a5f576be.chunk.css.map",
     "static/media/1080_1.png": "/vera-demo/static/media/1080_1.4e1c8c62.png",
