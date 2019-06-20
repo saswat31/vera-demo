@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95b0888939dd5911514731c1413877de",
+    "revision": "e2b5c7f1a6c99ae1322ddce386e7115d",
     "url": "/vera-demo/index.html"
   },
   {
-    "revision": "6fc8607f03fe7a5683e6",
+    "revision": "ae4fd737c3d77bf654c3",
     "url": "/vera-demo/static/css/main.944dc54d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vera-demo/static/js/2.6b8a5e35.chunk.js"
   },
   {
-    "revision": "6fc8607f03fe7a5683e6",
-    "url": "/vera-demo/static/js/main.5c90022c.chunk.js"
+    "revision": "ae4fd737c3d77bf654c3",
+    "url": "/vera-demo/static/js/main.d1fceda3.chunk.js"
   },
   {
     "revision": "463485148fd69dd821c5",
