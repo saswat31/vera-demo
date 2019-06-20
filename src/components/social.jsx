@@ -76,7 +76,7 @@ class Social extends Component {
         <InstagramEmbed
           url={url}
           maxWidth={240}
-          hideCaption={false}
+          hideCaption={true}
           containerTagName="div"
         />
       );
