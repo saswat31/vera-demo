@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vera-demo/precache-manifest.2aa4c5751a738eb7eab1547d02732374.js"
+  "/vera-demo/precache-manifest.a2f11f58851ea5a595aa1735900f3be2.js"
 );
 
 self.addEventListener('message', (event) => {
